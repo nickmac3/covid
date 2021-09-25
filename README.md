@@ -1,8 +1,8 @@
-### 'git clone' 
+### `git clone`
 
 git clone https://github.com/nickmac3/covid
 
-### 'npm install'
+### `npm install`
 
 yarn 
 
